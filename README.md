@@ -1,4 +1,5 @@
-![MechCrafter's GitHub stats](https://github-readme-stats.vercel.app/api?username=MechCrafter)
+![MechCrafter's GitHub stats](https://github-readme-stats.vercel.app/api?username=MechCrafter icons=true
+)
 
 Contact me📮
 ---
